@@ -29,4 +29,13 @@ public class FizzBuzzTest {
 
         Assert.assertEquals("", value);
     }
+
+    /*
+        TODO: 2
+        Write tests to find convert "Fizz, Buzz or FizzBuzz to it's minimum number."
+        For Fizz, the number is 3
+        For Buzz, the number is 5
+        For FizzBuzz, the number is 3 * 5
+     */
+
 }
